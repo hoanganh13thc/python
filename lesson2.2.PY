@@ -1,2 +1,2 @@
-a = "TƯỜNG"
+a = "ANH"
 print(a)

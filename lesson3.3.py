@@ -1,5 +1,5 @@
 name = "Hồ Vũ Hoàng Anh"
-MSSV = "1906020167"
+MSSV = "1906020123"
 khoa = "Công Nghệ Thông Tin"
 lop = "13THC"
 chuyen_nganh = "Lập trình"
